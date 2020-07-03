@@ -1,11 +1,11 @@
 {
-    "name": "achais\/esign",
-    "description": "根据e签宝官方文档开发的一个 PHP 扩展包, 悟空 API V2 SDK.",
+    "name": "chenyongze\/esign-sdk",
+    "description": "根据e签宝官方文档开发的一个 PHP 扩展包,API V2 SDK.",
     "license": "MIT",
     "authors": [
         {
-            "name": "achais",
-            "email": "achais.zheng@gmail.com"
+            "name": "yongze",
+            "email": "sapphire.php@gmail.com"
         }
     ],
     "require": {
