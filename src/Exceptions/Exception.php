@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Yong\ESign\Exceptions;
+namespace Yongze\ESign\Exceptions;
 
 /**
  * Class Exception
- * @packageYong\ESign\Exceptions
+ * @packageYongze\ESign\Exceptions
  */
 class Exception extends \Exception
 {

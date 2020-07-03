@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Yong\ESign\Core;
+namespace Yongze\ESign\Core;
 
-use Yong\ESign\Exceptions\HttpException;
-use Yong\ESign\Support\Log;
+use Yongze\ESign\Exceptions\HttpException;
+use Yongze\ESign\Support\Log;
 use GuzzleHttp\Client as HttpClient;
 use GuzzleHttp\HandlerStack;
 use Psr\Http\Message\ResponseInterface;

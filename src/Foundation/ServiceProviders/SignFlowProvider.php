@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Yong\ESign\Foundation\ServiceProviders;
+namespace Yongze\ESign\Foundation\ServiceProviders;
 
-use Yong\ESign\SignFlow;
+use Yongze\ESign\SignFlow;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 

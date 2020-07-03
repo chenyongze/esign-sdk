@@ -1,8 +1,8 @@
 <?php
 
-namespace Yong\ESign\Foundation\ServiceProviders;
+namespace Yongze\ESign\Foundation\ServiceProviders;
 
-use Yong\ESign\Account;
+use Yongze\ESign\Account;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 

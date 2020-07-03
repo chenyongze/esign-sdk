@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Yong\ESign\Exceptions;
+namespace Yongze\ESign\Exceptions;
 
 /**
  * Class InvalidArgumentException
- * @packageYong\ESign\Exceptions
+ * @packageYongze\ESign\Exceptions
  */
 class InvalidArgumentException extends Exception
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Yong\ESign\File;
+namespace Yongze\ESign\File;
 
-use Yong\ESign\Core\AbstractAPI;
-use Yong\ESign\Exceptions\HttpException;
-use Yong\ESign\Support\Collection;
+use Yongze\ESign\Core\AbstractAPI;
+use Yongze\ESign\Exceptions\HttpException;
+use Yongze\ESign\Support\Collection;
 
 class File extends AbstractAPI
 {

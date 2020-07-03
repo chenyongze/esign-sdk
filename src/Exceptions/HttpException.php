@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Yong\ESign\Exceptions;
+namespace Yongze\ESign\Exceptions;
 
 
 class HttpException extends Exception

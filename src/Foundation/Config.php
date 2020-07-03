@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Yong\ESign\Foundation;
+namespace Yongze\ESign\Foundation;
 
 
-use Yong\ESign\Support\Collection;
+use Yongze\ESign\Support\Collection;
 
 class Config extends Collection
 {

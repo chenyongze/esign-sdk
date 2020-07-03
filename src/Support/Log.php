@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Yong\ESign\Support;
+namespace Yongze\ESign\Support;
 
 
 use Monolog\Handler\ErrorLogHandler;

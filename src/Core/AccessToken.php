@@ -1,8 +1,8 @@
 <?php
 
-namespace Yong\ESign\Core;
+namespace Yongze\ESign\Core;
 
-use Yong\ESign\Exceptions\HttpException;
+use Yongze\ESign\Exceptions\HttpException;
 use Doctrine\Common\Cache\Cache;
 use Doctrine\Common\Cache\FilesystemCache;
 

@@ -1,11 +1,11 @@
 <?php
 
-namespace Yong\ESign;
+namespace Yongze\ESign;
 
-use Yong\ESign\Core\AbstractAPI;
-use Yong\ESign\Core\AccessToken;
-use Yong\ESign\Core\Http;
-use Yong\ESign\Support\Log;
+use Yongze\ESign\Core\AbstractAPI;
+use Yongze\ESign\Core\AccessToken;
+use Yongze\ESign\Core\Http;
+use Yongze\ESign\Support\Log;
 use Doctrine\Common\Cache\FilesystemCache;
 use Doctrine\Common\Cache\Cache as CacheInterface;
 use Monolog\Handler\HandlerInterface;
@@ -18,12 +18,12 @@ use Symfony\Component\HttpFoundation\Request;
 /**
  * Class Application
  *
- * @property \Yong\ESign\Core\AccessToken $access_token
- * @property \Yong\ESign\Account\Account $account
- * @property \Yong\ESign\File\File $file
- * @property \Yong\ESign\SignFlow\SignFlow $signflow
+ * @property \Yongze\ESign\Core\AccessToken $access_token
+ * @property \Yongze\ESign\Account\Account $account
+ * @property \Yongze\ESign\File\File $file
+ * @property \Yongze\ESign\SignFlow\SignFlow $signflow
  *
- * @packageYong\ESign
+ * @packageYongze\ESign
  */
 class Application extends Container
 {

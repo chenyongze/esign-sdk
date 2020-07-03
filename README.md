@@ -26,7 +26,7 @@ $config = [
    ],
 ];
 
-$eSign = new \Yong\ESign\Application($config);
+$eSign = new \Yongze\ESign\Application($config);
 
 $thirdPartyUserId = 'your_party_user_id'; // 用户唯一标识，可传入第三方平台的个人用户id、证件号、手机号、邮箱等，如果设置则作为账号唯一性字段，相同信息不可重复创建。
 $name = 'your_name'; // 姓名
@@ -70,7 +70,7 @@ echo $startSignFlowRet;
 
 ## 更多方法
 
-\Yong\ESign\Application 提供了几个服务列在了 $providers 属性里面, 想看使用方法的朋友最好直接阅读源码噢~ 我偷懒
+\Yongze\ESign\Application 提供了几个服务列在了 $providers 属性里面, 想看使用方法的朋友最好直接阅读源码噢~ 我偷懒
 
 查看方法和参数, 快速跳转链接
 - AccessToken 相关[点击查看](https://github.com/chenyongze/esign-sdk/tree/master/src/Core/AccessToken.php)
