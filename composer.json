@@ -1,5 +1,5 @@
 {
-    "name": "chenyongze\/esign-sdk",
+    "name": "chenyongze/esign-sdk",
     "description": "根据e签宝官方文档开发的一个 PHP 扩展包,API V2 SDK.",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
         "ext-openssl": "*",
         "doctrine/cache": "^1.7.1",
         "guzzlehttp/guzzle": "~6.2",
-        "monolog/monolog": "^1.22 || ^2.0",
+        "monolog/monolog": "^2.1",
         "pimple/pimple": "^3.0",
         "ext-json": "*",
         "symfony/http-foundation": "^3.4.12",
